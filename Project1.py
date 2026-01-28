@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import streamlit as st
 from streamlit_option_menu import option_menu
 
-df=pd.read_csv("Daily_Water_Intake.csv")
+df = pd.read_csv("Daily_Water_Intake.csv")
 
 
 with st.sidebar:
@@ -278,4 +278,5 @@ if selected == "GroupBy Analysis":
         weather_activity = df.groupby(["Weather", "Physical Activity Level"]).size()
 
         st.dataframe(weather_activity)
+
 
