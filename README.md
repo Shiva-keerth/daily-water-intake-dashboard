@@ -78,4 +78,4 @@ Built an interactive dashboard to explore hydration trends, identify low-intake 
 
 **Shiva Keerth G**  
 📧 gantishivakeerth@gmail.com  
-🔗 [GitHub](https://github.com/Shiva-keerth) | [LinkedIn](https://linkedin.com/in/your-linkedin-here)
+🔗 [GitHub](https://github.com/Shiva-keerth) | [LinkedIn](https://www.linkedin.com/in/shiva-keerth-9574b92a6/)
